@@ -1,6 +1,6 @@
 # Software Defined Networking
 
-Implementation of 2 apps using [Mininet](http://mininet.org/) as a Virtual Network Simulator and [OpenDaylight](https://www.opendaylight.org/) Software-Defined-Networking Controller.
+Implementation of 2 apps using [Mininet](http://mininet.org/) as a Virtual Network Simulator and [OpenDaylight](https://www.opendaylight.org/) Software-Defined-Networking Controller (both open source projects).
 
 ### Table of Contents
 
