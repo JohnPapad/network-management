@@ -8,8 +8,6 @@ Implementation of 2 apps using [Mininet](http://mininet.org/) as a Virtual Netwo
 
 [The Team](#team)
 
-[Task Separation](#taskSep)
-
 [The Stack](#stack)
 
 [Tools Used](#tools)
@@ -46,20 +44,6 @@ Our project consists of a react frontend and a flask (python) backend, communica
 
 [Nemanja Nedic](https://www.linkedin.com/in/nemanja-nedic/)
 
-
-<a name="taskSep"/>
-
-# Task Separation:
-
-## Ioannis Papadopoulos - Ioannis Lamprou
-Worked on implementing the whole UI interface, the front-end part of Network applications (Network Creation and Deletion, Network Overview, Flow Creation) using the ReactJS framework. Learned how to use the Mininet and OpenDaylight APIs through extensive search in the respective documentation. 
-
-## Dimitris Gangas - Nemanja Nedic
-Worked on implementing the back-end part of Network applications(Network Creation and Deletion, Network Overview, Flow Creation)
-using Python 2.7 & Flask micro web framework.
-
-
-The final documentation, network experimentation and testing was done by all team members.
 
 <a name="stack"/>
 
